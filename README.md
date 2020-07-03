@@ -1,2 +1,2 @@
 # AGRIBOT
-this project portrays our pioneer work in embeded-c arduino programming at the student level.
+this project portrays our work in embeded-c arduino programming at the student level.
